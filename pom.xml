@@ -60,6 +60,7 @@
                     <configuration>
                         <contexts>PlayersDB</contexts>
                         <verbose>true</verbose>
+                        <overwrite>true</overwrite>
                     </configuration>
                     <executions>
                         <execution>
